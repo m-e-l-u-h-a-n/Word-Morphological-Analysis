@@ -1,0 +1,5 @@
+Word		Root		POS		Gender		Number		Person		Case		TAM
+!بَراًےمہربانی				n		m		sg		3		UNK		0
+کچھدیر				n		m		sg		3		UNK		UNK
+دیرانتظارکیجیًے				n		m		sg		3		UNK		0
+

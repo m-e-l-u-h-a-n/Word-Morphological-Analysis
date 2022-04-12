@@ -1,0 +1,12 @@
+Word		Root		POS		Gender		Number		Person		Case		TAM
+रेगिस्तान				n		m		sg		3		o		0
+का				n		m		sg		UNK		UNK		0
+मुसाफिर				n		m		sg		3		o		0
+एक				n		m		sg		UNK		o		UNK
+बूँद				n		m		sg		3		d		0
+को				n		m		sg		UNK		UNK		UNK
+प्यासा				n		m		sg		3		o		0
+होता				v		m		sg		UNK		UNK		0
+है				v		m		sg		3		UNK		UNK
+|				n		UNK		UNK		UNK		UNK		UNK
+
